@@ -1,0 +1,11 @@
+d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
+eb477db224fdaa4bced72f17b1d0a45f  DEBIAN/control
+9bf111e6d8030d60b02215467369cc3a  usr/share/biglinux/appstream/spotify.jpg
+1d1ec899715b8dd26e49b0866d4f9394  usr/share/biglinux/appstream/wps.jpg
+9f4ee716cc87cda6e1827fc4f89b5c39  usr/share/biglinux/appstream/chrome.jpg
+3b82c3d45f80cc9665c3ef324c1f4bff  var/lib/app-info/yaml/google-chrome_dep11_Components-amd64.yml
+96428c7f306eee384483c926918be705  var/lib/app-info/yaml/spotify_dep11_Components-amd64.yml
+20b1bb7ae6afe23722eba335764579c9  var/lib/app-info/yaml/wps_dep11_Components-amd64.yml
+0d35b0493bb56c1a4926cbb911dc3dd5  var/lib/app-info/icons/biglinux/chrome.png
+c94b9b4bf0c9fce6dfddb521bf9f6f71  var/lib/app-info/icons/biglinux/spotify.png
+9fe90aabe4e1294259f27f61c70cc7bb  var/lib/app-info/icons/biglinux/wps.png

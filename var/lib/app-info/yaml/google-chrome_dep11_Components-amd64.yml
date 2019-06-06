@@ -1,0 +1,29 @@
+---
+Type: desktop-application
+ID: google-chrome.desktop
+Package: google-chrome-stable
+Name:
+  C: Google Chrome
+  pt: Google Chrome
+Summary:
+  C: The web browser from Google
+  pt: O navegador web da Google
+Description:
+  C: >-
+    <p>Google Chrome is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.</p>
+  pt: >-
+    <p>O Google Chrome é um navegador que combina um design minimalista com tecnologia sofisticada para tornar a web mais rápida, mais segura e mais fácil.</p>
+Categories:
+- Network
+- WebBrowser
+ProjectLicense: Proprietary
+Keywords:
+  C:
+  - internet,web,google,chrome
+Icon:
+  cached:
+  - name: /var/lib/app-info/icons/biglinux/chrome.png
+Screenshots:
+- default: true
+  source-image:
+    url: file:///usr/share/biglinux/appstream/chrome.jpg

@@ -1,0 +1,29 @@
+---
+Type: desktop-application
+ID: spotify.desktop
+Package: spotify-client
+Name:
+  C: Spotify
+  pt: Spotify
+Summary:
+  C: Spotify streaming music client
+  pt: Spotify cliente de streaming de música
+Description:
+  C: >-
+    <p>With Spotify, it’s easy to find the right music for every moment – on your phone, your computer, your tablet and more.</p>
+  pt: >-
+    <p>Com o Spotify, é fácil encontrar a música certa para cada momento – no seu telefone, computador, tablet e outros.</p>
+Categories:
+- AudioVideo
+- Audio
+ProjectLicense: Proprietary
+Keywords:
+  C:
+  - internet,spotify,music,player,música,streaming,web
+Icon:
+  cached:
+  - name: /var/lib/app-info/icons/biglinux/spotify.png
+Screenshots:
+- default: true
+  source-image:
+    url: file:///usr/share/biglinux/appstream/spotify.jpg
