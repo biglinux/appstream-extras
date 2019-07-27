@@ -1,0 +1,11 @@
+Type: desktop-application
+ID: office365-webapp.desktop
+Package: office365-webapp
+Name:
+  C: Webapp Microsoft Office 365
+Summary:
+  C: The web app in your desktop
+  pt: O aplicativo web no seu desktop
+Categories:
+- Network
+- WebBrowser

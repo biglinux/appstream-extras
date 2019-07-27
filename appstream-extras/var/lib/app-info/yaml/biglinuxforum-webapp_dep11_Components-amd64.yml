@@ -1,0 +1,10 @@
+Type: desktop-application
+ID: biglinuxforum-webapp.desktop
+Package: biglinuxforum-webapp
+Name:
+  C: Webapp Forum BigLinux
+Summary:
+  C: Fórum BigLinux
+Categories:
+- Network
+- WebBrowser

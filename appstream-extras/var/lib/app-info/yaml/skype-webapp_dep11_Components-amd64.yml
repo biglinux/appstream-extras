@@ -1,0 +1,11 @@
+Type: desktop-application
+ID: skype-webapp.desktop
+Package: skype-webapp
+Name:
+  C: Webapp Skype
+Summary:
+  C: The web app in your desktop
+  pt: O aplicativo web no seu desktop
+Categories:
+- Network
+- WebBrowser

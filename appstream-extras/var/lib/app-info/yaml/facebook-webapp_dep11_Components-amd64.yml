@@ -1,0 +1,10 @@
+Type: desktop-application
+ID: facebook-webapp.desktop
+Package: facebook-webapp
+Name:
+  C: Webapp Facebook
+Summary:
+  C: Your social media
+Categories:
+- Network
+- WebBrowser

@@ -1,0 +1,11 @@
+Type: desktop-application
+ID: whatsapp-webapp.desktop
+Package: whatsapp-webapp
+Name:
+  C: Webapp Whatsapp
+Summary:
+  C: The web app in your desktop
+  pt: O aplicativo web no seu desktop
+Categories:
+- Network
+- WebBrowser

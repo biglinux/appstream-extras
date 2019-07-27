@@ -1,0 +1,11 @@
+Type: desktop-application
+ID: tunein-webapp.desktop
+Package: tunein-webapp
+Name:
+  C: Webapp Tunein
+Summary:
+  C: The web app in your desktop
+  pt: O aplicativo web no seu desktop
+Categories:
+- Network
+- WebBrowser

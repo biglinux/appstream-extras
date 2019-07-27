@@ -1,0 +1,11 @@
+Type: desktop-application
+ID: yahoomail-webapp.desktop
+Package: yahoomail-webapp
+Name:
+  C: Webapp Yahoo Mail
+Summary:
+  C: The web app in your desktop
+  pt: O aplicativo web no seu desktop
+Categories:
+- Network
+- WebBrowser

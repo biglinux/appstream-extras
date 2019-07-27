@@ -1,0 +1,11 @@
+Type: desktop-application
+ID: googlephotos-webapp.desktop
+Package: googlephotos-webapp
+Name:
+  C: Webapp Google Photos
+Summary:
+  C: Google app in your desktop
+  pt: Aplicativo do Google no seu desktop
+Categories:
+- Network
+- WebBrowser

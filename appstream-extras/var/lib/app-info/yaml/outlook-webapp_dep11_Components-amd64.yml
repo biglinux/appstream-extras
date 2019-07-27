@@ -1,0 +1,11 @@
+Type: desktop-application
+ID: outlook-webapp.desktop
+Package: outlook-webapp
+Name:
+  C: Webapp Microsoft Outlook
+Summary:
+  C: The web app in your desktop
+  pt: O aplicativo web no seu desktop
+Categories:
+- Network
+- WebBrowser

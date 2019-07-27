@@ -1,0 +1,11 @@
+Type: desktop-application
+ID: netflix-firefox.desktop
+Package: netflix-firefox
+Name:
+  C: Webapp Netflix
+Summary:
+  C: The web app in your desktop
+  pt: O aplicativo web no seu desktop
+Categories:
+- Network
+- WebBrowser
