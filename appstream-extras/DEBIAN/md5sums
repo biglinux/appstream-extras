@@ -2,7 +2,7 @@ d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
 26bf808868038bc3ba1beaef1c557946  DEBIAN/dpkg-divert
 bb09413d0e05d481a3c3d004a7b7dc75  DEBIAN/preinst
 ba2384d03e66550992e8f816f559e687  DEBIAN/postrm
-2ba0ab403782ad21793b643e06610a2e  DEBIAN/control
+3146657830040394f6e87f531c4c963e  DEBIAN/control
 9bf111e6d8030d60b02215467369cc3a  usr/share/biglinux/appstream/spotify.jpg
 1d1ec899715b8dd26e49b0866d4f9394  usr/share/biglinux/appstream/wps.jpg
 9f4ee716cc87cda6e1827fc4f89b5c39  usr/share/biglinux/appstream/chrome.jpg
@@ -27,7 +27,6 @@ f470c5db45a6037504f60bf5c28fbd0a  var/lib/app-info/yaml/sublime-text_dep11_Compo
 15bf54187dd614011d55e22919dee38b  var/lib/app-info/yaml/wps-installer_dep11_Components-amd64.yml
 80a3fa8889f59a53180b6de8221eb194  var/lib/app-info/yaml/thunderbird_dep11_Components-amd64.yml
 76bf091812366241574dba18bdc0dfb1  var/lib/app-info/yaml/thunderbird-pt-br_dep11_Components-amd64.yml
-11f666c39f3917a3a4f432cc83fc4495  var/lib/app-info/yaml/biglinuxforum-webapp_dep11_Components-amd64.yml
 d86bb6eb0448c1f7aa3a05f1579af15f  var/lib/app-info/yaml/deezer-webapp_dep11_Components-amd64.yml
 df5385baba7c07528d282f15533848b1  var/lib/app-info/yaml/facebook-webapp_dep11_Components-amd64.yml
 474a0a65be538d71db979c15344b6e16  var/lib/app-info/yaml/gmail-webapp_dep11_Components-amd64.yml
@@ -57,5 +56,6 @@ bf3012f7cc0dde0fae1b49f3f9263935  var/lib/app-info/yaml/twitter-webapp_dep11_Com
 84801fe4c62bb223330e4548eb5cacc7  var/lib/app-info/yaml/whatsapp-webapp_dep11_Components-amd64.yml
 71d69051c6552dae1228994023dabf82  var/lib/app-info/yaml/yahoomail-webapp_dep11_Components-amd64.yml
 827e2dbd1805fa84058b3b03a9e0ae86  var/lib/app-info/yaml/youtube-webapp_dep11_Components-amd64.yml
+11f666c39f3917a3a4f432cc83fc4495  var/lib/app-info/yaml/biglinuxforum-webapp_dep11_Components-amd64.yml
 beb17f124a9f1520c973dc7f3337627b  etc/apt/apt.conf.d/50appstream
 92215573ef8ca17cce253ea8d8026af1  etc/apt/apt.conf.d/51appstreamlinks

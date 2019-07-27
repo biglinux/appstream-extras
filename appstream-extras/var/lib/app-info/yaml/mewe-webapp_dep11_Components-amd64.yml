@@ -1,0 +1,10 @@
+Type: desktop-application
+ID: mewe-webapp.desktop
+Package: mewe-webapp
+Name:
+  C: Webapp Mewe
+Summary:
+  C: Your social media
+Categories:
+- Network
+- WebBrowser
