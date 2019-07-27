@@ -1,0 +1,26 @@
+---
+Type: desktop-application
+ID: lutris.desktop
+Package: lutris
+Name:
+  C: Lutris
+  pt: Lutris
+Summary:
+  C: Install and play any video game easily.
+  pt: O modo mais simples de instalar e gerenciar jogos e emuladores no Linux.
+Description:
+  C: >-
+    <p>Lutris is a gaming platform for GNU/Linux. Its goal is to make gaming on Linux as easy as possible by taking care of installing and setting up the game for the user. The only thing you have to do is play the game. It aims to support every game that is playable on Linux.</p>
+  pt: >-
+    <p>Lutris é uma plataforma de jogos para GNU/Linux. Seu objetivo é tornar os jogos no Linux o mais fácil possível, cuidando da instalação e configuração do jogo para o usuário. A única coisa que você tem que fazer é jogar o jogo. Funciona tanto com jogos feitos para Linux, quanto Windows, ou mesmo para diversos videogames e fliperamas.</p>
+Categories:
+- Games
+ProjectLicense:
+Keywords:
+  C:
+  - games,lutris,wine,windows,steam,snes,nes,super,nintendo,playstation,saturn,dreamcast,sega,master,system,mega,genesis,atari,arcade,fliperama,roms,emulator,emuladores,retroarch,libretro,retro,retrolib
+Icon:
+  cached:
+  - name: /usr/share/pixmaps/lutris.png
+Screenshots:
+- default: true

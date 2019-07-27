@@ -1,0 +1,25 @@
+---
+Type: desktop-application
+ID: firefox-firefox.desktop
+Package: firefox
+Name:
+  C: Firefox
+  pt: Firefox
+Summary:
+  C: Safe and easy web browser from Mozilla.
+  pt: Navegador web seguro e fácil da Mozilla.
+Description:
+  C: >-
+    <p>Firefox delivers safe, easy web browsing. A familiar user interface, enhanced security features including protection from online identity theft, and integrated search let you get the most out of the web.</p>
+  pt: >-
+    <p>O Firefox oferece navegação na Web segura e fácil. Uma interface de usuário familiar, recursos de segurança aprimorados, incluindo proteção contra roubo de identidade on-line e pesquisa integrada, permitem que você aproveite ao máximo a Web.</p>
+Categories:
+- Network
+- WebBrowser
+ProjectLicense:
+Keywords:
+  C:
+  - firefox,browser,navegador,mozilla
+Icon:
+  cached:
+  - name: /usr/share/pixmaps/firefox.png

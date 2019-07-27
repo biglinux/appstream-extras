@@ -1,0 +1,21 @@
+---
+Type: desktop-application
+ID: sublimetext-code.desktop
+Package: sublime-text
+Name:
+  C: Sublime Text
+  pt: Sublime Text
+Summary:
+  C: Sublime Text is a sophisticated text editor for code, markup and prose.
+  pt: Sublime Text é um editor de texto sofisticado para código, marcação e prosa.
+Description:
+  C: >-
+    <p>You'll love the slick user interface, extraordinary features and amazing performance.</p>
+  pt: >-
+    <p>Você vai adorar a interface do usuário, recursos extraordinários e desempenho incrível.</p>
+Categories:
+- Development
+ProjectLicense: Proprietary
+Keywords:
+  C:
+  - sublime,text,web,php,programmer,programacao,php,shell,bash,python,editor

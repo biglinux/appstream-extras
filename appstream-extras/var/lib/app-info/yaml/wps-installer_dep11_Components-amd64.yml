@@ -1,13 +1,13 @@
 ---
 Type: desktop-application
-ID: wps-office-wps.desktop
-Package: wps-office
+ID: wps-installer.desktop
+Package: wps-installer
 Name:
-  C: WPS Office
-  pt: WPS Office
+  C: WPS Office Installer
+  pt: Instalador do WPS Office
 Summary:
-  C: WPS Office, is an office productivity suite.
-  pt: WPS Office, é um pacote de produtividade de escritório.
+  C: Automatic download and install WPS office. A office productivity suite.
+  pt: Faz o download e instalação de forma automática do WPS Office, uma suíte Office bastante completa.
 Description:
   C: >-
     <p>WPS Office including Writer, Presentation  and Spreadsheets, is a powerful office suite, which is able to process word file, produce wonderful slides, and analyze data as well. It is deeply compatible with all of the latest Microsoft Office file formats. It can easily open and read the documents created with Microsoft Office.</p>
@@ -21,7 +21,7 @@ Keywords:
   - office,wps,writer,spreadsheets,presentation,calc,word,power,point,powerpoint,excel
 Icon:
   cached:
-  - name: /var/lib/app-info/icons/biglinux/wps.png
+  - name: /usr/share/pixmaps/wps.png
 Screenshots:
 - default: true
   source-image:

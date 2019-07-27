@@ -22,7 +22,7 @@ Keywords:
   - internet,web,google,chrome
 Icon:
   cached:
-  - name: /var/lib/app-info/icons/biglinux/chrome.png
+  - name: /usr/share/pixmaps/chrome.png
 Screenshots:
 - default: true
   source-image:

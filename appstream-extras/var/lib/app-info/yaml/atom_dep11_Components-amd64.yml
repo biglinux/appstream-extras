@@ -1,0 +1,26 @@
+---
+Type: desktop-application
+ID: atom-atom.desktop
+Package: atom
+Name:
+  C: Atom
+  pt: Atom
+Summary:
+  C: A hackable text editor for the 21st Century.
+  pt: Uma das melhores opções em editor de códigos.
+Description:
+  C: >-
+    <p>Atom is a free and open source text editor that is modern, approachable, and hackable to the core. See more in https://atom.io</p>
+  pt: >-
+    <p>Um editor de códigos baseado em software livre, moderno e com diversas extensões. Com uma excelente integração ao github. Veja mais em: https://atom.io</p>
+Categories:
+- Development
+ProjectLicense:
+Keywords:
+  C:
+  - atom,web,php,programmer,programacao,php,shell,bash,python,editor
+Icon:
+  cached:
+  - name: /usr/share/pixmaps/atom.png
+Screenshots:
+- default: true

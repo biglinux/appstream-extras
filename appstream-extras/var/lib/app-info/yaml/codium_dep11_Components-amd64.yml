@@ -1,0 +1,21 @@
+---
+Type: desktop-application
+ID: vscodium-code.desktop
+Package: codium
+Name:
+  C: VSCodium
+  pt: VSCodium
+Summary:
+  C: Open SOurce code editor.
+  pt: Editor de códigos Open Source.
+Description:
+  C: >-
+    <p>This is the Open Source build of Visual Studio Code. Some features are different from the proprietary version: There is no telemetry nor Twitter integration, and the logo is a different one without copyright issue. This OSS repackaging are not supported by Microsoft.</p>
+  pt: >-
+    <p>Esta é a compilação Open Source do Visual Studio Code. Alguns recursos são diferentes da versão proprietária: não há telemetria nem integração com o Twitter, e o logotipo é diferente, sem problemas de direitos autorais. Esse reempacotamento de OSS, não é suportado pela Microsoft.</p>
+Categories:
+- Development
+ProjectLicense:
+Keywords:
+  C:
+  - code,vscode,codium,vscodium,web,php,programmer,programacao,php,shell,bash,python,editor

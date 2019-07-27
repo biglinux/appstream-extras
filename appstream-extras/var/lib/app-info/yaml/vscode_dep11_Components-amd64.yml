@@ -1,0 +1,21 @@
+---
+Type: desktop-application
+ID: vscode-code.desktop
+Package: code
+Name:
+  C: Visual Studio Code
+  pt: Visual Studio Code
+Summary:
+  C: Visual Studio Code. Code editing. Redefined.
+  pt: Editor de códigos desenvolvido pela Microsoft.
+Description:
+  C: >-
+    <p>Visual Studio Code is a new choice of tool that combines the simplicity of a code editor with what developers need for the core edit-build-debug cycle.</p>
+  pt: >-
+    <p>O Visual Studio Code é uma nova opção de ferramenta que combina a simplicidade de um editor de código com o que os desenvolvedores precisam.</p>
+Categories:
+- Development
+ProjectLicense:
+Keywords:
+  C:
+  - code,vscode,web,php,programmer,programacao,php,shell,bash,python,editor

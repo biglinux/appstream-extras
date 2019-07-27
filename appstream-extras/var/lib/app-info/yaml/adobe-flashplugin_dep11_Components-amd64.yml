@@ -1,0 +1,22 @@
+---
+Type: desktop-application
+ID: flashplayer-code.desktop
+Package: adobe-flashplugin
+Name:
+  C: Adobe Flash Player plugin
+  pt: Adobe Flash Player plugin
+Summary:
+  C: This package provides plugins compatible with both Chromium and Firefox.
+  pt: Este pacote fornece plug-ins compatíveis com o Chromium e o Firefox.
+Description:
+  C: >-
+    <p>Adobe® Flash® Player is a cross-platform, browser-based application runtime that provides uncompromised viewing of expressive applications, content, and videos across browsers and operating systems.</p>
+  pt: >-
+    <p>O Adobe® Flash® Player oferece visualização de aplicativos, conteúdo e vídeos expressivos em navegadores e sistemas operacionais.</p>
+Categories:
+- Network
+- WebBrowser
+ProjectLicense: Proprietary
+Keywords:
+  C:
+  - flash,player,adobe,macromedia,plugin

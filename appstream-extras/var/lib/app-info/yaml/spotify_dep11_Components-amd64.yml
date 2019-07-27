@@ -22,7 +22,7 @@ Keywords:
   - internet,spotify,music,player,música,streaming,web
 Icon:
   cached:
-  - name: /var/lib/app-info/icons/biglinux/spotify.png
+  - name: /usr/share/pixmaps/spotify.png
 Screenshots:
 - default: true
   source-image:
