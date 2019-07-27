@@ -1,0 +1,16 @@
+#!/bin/sh
+set -e
+package_name=appstream-extras
+mkdir -p "/usr/share/dpkgdivert/appstream-extras"
+case "$1" in
+  install)
+    dpkg-divert --package "$package_name" --divert "/usr/share/dpkgdivert/appstream-extras/etcaptapt.conf.d50appstream" --rename "/etc/apt/apt.conf.d/50appstream"
+    ;;
+  upgrade)
+if [ "$(dpkg-divert --list "/etc/apt/apt.conf.d/50appstream")" = "" ]
+then
+    dpkg-divert --package "$package_name" --divert "/usr/share/dpkgdivert/appstream-extras/etcaptapt.conf.d50appstream" --rename "/etc/apt/apt.conf.d/50appstream"
+fi
+;;
+esac
+exit 0

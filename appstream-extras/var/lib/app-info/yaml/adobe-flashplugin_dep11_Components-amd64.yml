@@ -1,5 +1,5 @@
 ---
-Type: desktop-application
+Type: addon
 ID: flashplayer-code.desktop
 Package: adobe-flashplugin
 Name:

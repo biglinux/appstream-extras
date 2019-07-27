@@ -1,0 +1,26 @@
+---
+Type: desktop-application
+ID: thunderbird-thunderbird-ptbr.desktop
+Package: thunderbird-locale-pt-br
+Name:
+  C: Thunderbird translation to Brazilian Portuguese
+  pt: Tradução do Thunderbird para português do Brasil
+Summary:
+  C: Translation.
+  pt: Tradução.
+Description:
+  C: >-
+    <p>Language option.</p>
+  pt: >-
+    <p>Utilize seu cliente de e-mail preferido em sua língua nativa.</p>
+Categories:
+- Office
+- Network
+- Email
+ProjectLicense:
+Keywords:
+  C:
+  - thunderbird,mail,e-mail,email,calendar,mozilla,calendario
+Icon:
+  cached:
+  - name: /usr/share/pixmaps/mozilla-thunderbird.png

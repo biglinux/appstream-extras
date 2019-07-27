@@ -1,0 +1,11 @@
+#!/bin/sh
+
+for i  in  $(ls /var/lib/apt/lists/*.yml); do
+    ln -sf "$i" /var/lib/app-info/yaml/
+done
+
+if [ ! -e "/etc/appstream-links" ]; then
+    appstreamcli refresh-cache --force
+    touch /etc/appstream-links
+fi
+

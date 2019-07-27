@@ -1,0 +1,10 @@
+######################
+# Tweaks for apt
+# by Bruno Gonçalves Araujo <bigbruno@gmail.com>
+# licensed under GPLv2 or greater.
+# released in 7/27/2019
+
+APT::Update::Post-Invoke-Success {
+    "appstream-links 2> /dev/null"
+};
+

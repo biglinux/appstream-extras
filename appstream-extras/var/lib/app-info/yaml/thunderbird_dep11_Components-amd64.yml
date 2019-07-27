@@ -1,0 +1,26 @@
+---
+Type: desktop-application
+ID: thunderbird-thunderbird.desktop
+Package: thunderbird
+Name:
+  C: Thunderbird
+  pt: Thunderbird
+Summary:
+  C: Email, RSS and newsgroup client with integrated spam filter.
+  pt: Cliente de e-mail, RSS e newsgroup com filtro de spam integrado.
+Description:
+  C: >-
+    <p>Thunderbird is a full-featured email, RSS and newsgroup client that makes emailing safer, faster and easier than ever before. It supports different mail accounts (POP, IMAP, Gmail), has a simple mail account setup wizard, one-click address book, tabbed interface, an integrated learning spam filter, advanced search and indexing capabilities, and offers easy organization of mails with tagging and virtual folders. It also features unrivalled extensibility.</p>
+  pt: >-
+    <p>O Thunderbird é um cliente completo de e-mail, RSS e newsgroups que torna o envio de e-mails mais seguro, mais rápido e mais fácil do que nunca. Suporta diferentes contas de contas (POP, IMAP, Gmail), possui um simples assistente de configuração de contas, um livro de endereços, interface com abas, um filtro de spam de aprendizagem integrado, capacidades avançadas de pesquisa e indexação, e oferece fácil organização de emails com marcação e pastas virtuais. Também possui extensibilidade incomparável.</p>
+Categories:
+- Office
+- Network
+- Email
+ProjectLicense:
+Keywords:
+  C:
+  - thunderbird,mail,e-mail,email,calendar,mozilla,calendario
+Icon:
+  cached:
+  - name: /usr/share/pixmaps/mozilla-thunderbird.png

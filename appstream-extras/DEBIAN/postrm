@@ -1,0 +1,12 @@
+#!/bin/sh
+set -e
+package_name=appstream-extras
+case "$1" in
+  remove)
+    dpkg-divert --package "$package_name" --rename --remove "/etc/apt/apt.conf.d/50appstream"
+    ;;
+  purge)
+    dpkg-divert --package "$package_name" --rename --remove "/etc/apt/apt.conf.d/50appstream"
+;;
+esac
+exit 0
