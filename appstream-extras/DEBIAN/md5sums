@@ -57,5 +57,6 @@ bf3012f7cc0dde0fae1b49f3f9263935  var/lib/app-info/yaml/twitter-webapp_dep11_Com
 71d69051c6552dae1228994023dabf82  var/lib/app-info/yaml/yahoomail-webapp_dep11_Components-amd64.yml
 827e2dbd1805fa84058b3b03a9e0ae86  var/lib/app-info/yaml/youtube-webapp_dep11_Components-amd64.yml
 11f666c39f3917a3a4f432cc83fc4495  var/lib/app-info/yaml/biglinuxforum-webapp_dep11_Components-amd64.yml
+73c9fde2f44ed49991997658729e4f1f  var/lib/app-info/yaml/mewe-webapp_dep11_Components-amd64.yml
 beb17f124a9f1520c973dc7f3337627b  etc/apt/apt.conf.d/50appstream
 92215573ef8ca17cce253ea8d8026af1  etc/apt/apt.conf.d/51appstreamlinks
