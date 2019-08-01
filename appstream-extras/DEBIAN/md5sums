@@ -2,7 +2,7 @@ d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
 26bf808868038bc3ba1beaef1c557946  DEBIAN/dpkg-divert
 bb09413d0e05d481a3c3d004a7b7dc75  DEBIAN/preinst
 ba2384d03e66550992e8f816f559e687  DEBIAN/postrm
-3146657830040394f6e87f531c4c963e  DEBIAN/control
+dd9b851b36d6b5b9c48b06fadee3f402  DEBIAN/control
 9bf111e6d8030d60b02215467369cc3a  usr/share/biglinux/appstream/spotify.jpg
 1d1ec899715b8dd26e49b0866d4f9394  usr/share/biglinux/appstream/wps.jpg
 9f4ee716cc87cda6e1827fc4f89b5c39  usr/share/biglinux/appstream/chrome.jpg
@@ -12,7 +12,7 @@ c94b9b4bf0c9fce6dfddb521bf9f6f71  usr/share/pixmaps/spotify.png
 95230b76f097ebfbd52daaf42772035b  usr/share/pixmaps/firefox.png
 eb5191b42a7ec780eb44b0a21264d624  usr/share/pixmaps/lutris.png
 b3c66ad520e987ef35a920edc54e7785  usr/share/pixmaps/mozilla-thunderbird.png
-63911c3f42799740df5d3270fde26c43  usr/bin/appstream-links
+840fa8301e9d5e2fbf38bd3da0fa6b5f  usr/bin/appstream-links
 8d3c5ba4d758a5f8b624f2713c2b62b1  var/lib/app-info/yaml/adobe-flashplugin_dep11_Components-amd64.yml
 0b1130318d5323da915bdd6d4cf5f4f2  var/lib/app-info/yaml/atom_dep11_Components-amd64.yml
 30ebf604b158b51323dc58849de70873  var/lib/app-info/yaml/codium_dep11_Components-amd64.yml

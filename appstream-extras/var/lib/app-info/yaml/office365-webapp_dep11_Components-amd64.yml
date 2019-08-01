@@ -1,5 +1,5 @@
 Type: desktop-application
-ID: office365-webapp.desktop
+ID: office365-webapp-biglinux.desktop
 Package: office365-webapp
 Name:
   C: Webapp Microsoft Office 365
