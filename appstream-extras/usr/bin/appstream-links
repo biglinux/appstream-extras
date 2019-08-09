@@ -1,11 +1,22 @@
 #!/bin/sh
 
+refresh=0
+
 for i  in  $(ls /var/lib/apt/lists/*.yml); do
-    ln -s "$i" /var/lib/app-info/yaml/
+
+    if [ ! -e "/var/lib/app-info/yaml/$(echo "$i" | cut -f6 -d"/")" ]; then
+        ln -s "$i" /var/lib/app-info/yaml/
+        refresh=1
+    fi
+
 done
 
 if [ ! -e "/etc/appstream-links" ]; then
     appstreamcli refresh-cache --force
     touch /etc/appstream-links
+fi
+
+if [ "$refresh" = "1" ]; then
+    appstreamcli refresh-cache --force
 fi
 
