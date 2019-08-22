@@ -2,7 +2,7 @@ d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
 26bf808868038bc3ba1beaef1c557946  DEBIAN/dpkg-divert
 bb09413d0e05d481a3c3d004a7b7dc75  DEBIAN/preinst
 ba2384d03e66550992e8f816f559e687  DEBIAN/postrm
-85ab46066e5ae7ceb30f040225ae9918  DEBIAN/control
+f4a1af3a20eb606f9f6bc1cfb8a664f2  DEBIAN/control
 9bf111e6d8030d60b02215467369cc3a  usr/share/biglinux/appstream/spotify.jpg
 1d1ec899715b8dd26e49b0866d4f9394  usr/share/biglinux/appstream/wps.jpg
 9f4ee716cc87cda6e1827fc4f89b5c39  usr/share/biglinux/appstream/chrome.jpg
@@ -59,5 +59,6 @@ c5aba8f08dbaea48f9944b03c5a2d3ff  var/lib/app-info/yaml/yahoomail-webapp_dep11_C
 a7ad7d00d79eda94f76d0456b333cbf3  var/lib/app-info/yaml/firefox_dep11_Components-amd64.yml
 c46718fdf838834894288da5ac13c83a  var/lib/app-info/yaml/thunderbird_dep11_Components-amd64.yml
 655caa4f9c7b058479eae0eaec18d6f3  var/lib/app-info/yaml/youtubemusic-webapp_dep11_Components-amd64.yml
+8c18ea645c56c2535dda1461a21e5a7f  var/lib/app-info/yaml/token-installer_dep11_Components-amd64.yml
 beb17f124a9f1520c973dc7f3337627b  etc/apt/apt.conf.d/50appstream
 92215573ef8ca17cce253ea8d8026af1  etc/apt/apt.conf.d/51appstreamlinks
