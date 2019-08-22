@@ -1,10 +1,10 @@
 Package: appstream-extras
-Version: 1.0.0-1big6
+Version: 1.0.0-1big9
 Depends:
 Architecture: all
 Maintainer: Bruno Goncalves <www.biglinux.com.br>
 Section: admin
 Priority: optional
-Installed-Size:444
+Installed-Size:448
 Description: Package to add more apps in appstream and disable compression, thanks to Elton Fabricio
 

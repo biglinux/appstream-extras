@@ -1,0 +1,12 @@
+Type: desktop-application
+ID: token-installer.desktop
+Package: token-installer
+Name:
+  C: Tool to install Brazilian tokens
+  pt: Instalador de Tokens
+Summary:
+  C: Tool to assist in the installation of tokens.
+  pt: Ferramenta para auxiliar na instalação de tokens.
+Categories:
+- Network
+- WebBrowser

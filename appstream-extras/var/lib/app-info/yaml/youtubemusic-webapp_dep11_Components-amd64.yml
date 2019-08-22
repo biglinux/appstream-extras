@@ -1,0 +1,11 @@
+Type: desktop-application
+ID: youtubemusic-webapp-biglinux.desktop
+Package: youtubemusic-webapp
+Name:
+  C: Webapp Google Youtube Music
+Summary:
+  C: The web app in your desktop
+  pt: O aplicativo web no seu desktop
+Categories:
+- Network
+- WebBrowser
