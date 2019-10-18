@@ -11,6 +11,15 @@ for i  in  $(ls /var/lib/apt/lists/*.yml); do
 
 done
 
+for i  in  $(ls /var/lib/apt/lists/*.tar); do
+    folder=$(echo "$i" | grep ubuntu | sed 's|.*_dists_|/var/lib/app-info/icons/ubuntu-|g;s|_dep11_icons-|/|g;s|.tar||g;s|_|-|g')
+    
+    if [ ! -e "$folder" ]; then
+        mkdir -p "$folder"
+        tar -xf "$i" -C "$folder"
+    fi
+done
+
 if [ ! -e "/etc/appstream-links" ]; then
     appstreamcli refresh-cache --force
     touch /etc/appstream-links
